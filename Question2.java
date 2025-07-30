@@ -9,6 +9,5 @@ public class Question2 {
     int age = sc.nextInt();
 
     System.out.println("Hello " + name + " you are " + age + " years age" );
-
   }
 }
