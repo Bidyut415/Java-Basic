@@ -5,3 +5,4 @@
 ## Q-2:Check Factorial
 ## Q-3:Reverse Number
 ## Q-4:Check Even and Odd number
+## Q-5:Check Prime or Not
