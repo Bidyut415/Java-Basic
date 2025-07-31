@@ -1,5 +1,5 @@
 # Java-Basic
-java basic code
+
 
 ## Q-1:Swap two number
 ## Q-2:Check Factorial
