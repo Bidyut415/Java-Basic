@@ -6,3 +6,4 @@
 ## Q-3:Reverse Number
 ## Q-4:Check Even and Odd number
 ## Q-5:Check Prime or Not
+## Q-6:Check Ascii value 
