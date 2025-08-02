@@ -8,3 +8,4 @@
 ## Q-5:Check Prime or Not
 ## Q-6:Check Ascii value 
 ## Q-7:Check Palindrome number 
+## Q-8:Check Armstrong or not 
