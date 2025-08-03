@@ -13,3 +13,4 @@
 ## Q-10:Sum of Digits
 ## Q-11:Largest Among Three number
 ## Q-12:Find GCD 
+## Q-13:Find LCM
