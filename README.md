@@ -12,3 +12,4 @@
 ## Q-9:Count Digits in a number
 ## Q-10:Sum of Digits
 ## Q-11:Largest Among Three number
+## Q-12:Find GCD 
