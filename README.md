@@ -17,3 +17,4 @@
 ## Q-14:Fibonaci serise 
 ## Q-15:Leap Year Check
 ## Q-16:Perfact Number check
+## Q-17:Check Power of a Number
