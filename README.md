@@ -16,3 +16,4 @@
 ## Q-13:Find LCM
 ## Q-14:Fibonaci serise 
 ## Q-15:Leap Year Check
+## Q-16:Perfact Number check
