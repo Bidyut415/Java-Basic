@@ -19,3 +19,4 @@
 ## Q-16:Perfact Number check
 ## Q-17:Check Power of a Number
 ## Q-18:Sum of n natural number
+## Q-19:Add Factprs check of a number 
