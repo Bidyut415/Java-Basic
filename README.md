@@ -22,3 +22,4 @@
 ## Q-19:Add Factors check of a number 
 ## Q-20:Add Strong number chek
 ## Q-21:Add Count Words in a sentence
+## Q-22:
